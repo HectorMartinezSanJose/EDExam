@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.mycompany.hectorproject1","l":"Libro"},{"p":"com.mycompany.hectorproject1","l":"Personas"},{"p":"com.mycompany.hectorproject1","l":"Prestamo"},{"p":"com.mycompany.hectorproject1","l":"Socio"},{"p":"com.mycompany.hectorproject1","l":"Trabajador"}];updateSearchResults();
